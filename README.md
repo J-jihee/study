@@ -1,7 +1,7 @@
 # Content
      
 ## 개인적으로 공부 중인 항목들입니다
-- Pytorch
+- Tensorflow
 - Pandas
 - Python
 - DL
